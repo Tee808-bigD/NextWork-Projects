@@ -1,0 +1,9 @@
+NextWork Corp Employee Handbook - Remote Work Policy
+
+All full-time employees at NextWork Corp are eligible for remote work up to three days per week. Remote work days must be approved by the employee's direct manager at least 48 hours in advance. Employees must be available during core hours of 10 AM to 3 PM in their local time zone.
+
+Equipment and Expenses: NextWork Corp provides a one-time home office stipend of $500 for new employees. This covers essential equipment such as a monitor, keyboard, and ergonomic chair. Ongoing internet expenses are reimbursed up to $75 per month upon submission of receipts through the expense portal.
+
+Performance and Accountability: Remote employees are expected to maintain the same productivity standards as in-office staff. Managers will conduct monthly check-ins to review progress on deliverables. If performance issues arise, the remote work arrangement may be modified or revoked with two weeks notice.
+
+Security Requirements: All remote work must be conducted on company-approved devices with VPN enabled. Employees must not access company systems from public Wi-Fi networks without using the corporate VPN. Any security incidents must be reported to the IT helpdesk within one hour.

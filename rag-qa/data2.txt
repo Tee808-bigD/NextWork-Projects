@@ -1,0 +1,9 @@
+NextWork Corp Engineering Team Standards
+
+Code Review Policy: All code changes must be reviewed by at least one peer before merging to the main branch. Reviews should be completed within 24 hours of submission. The reviewer must check for code quality, test coverage, and adherence to the team's style guide.
+
+Deployment Process: NextWork Corp follows a continuous deployment model with staging and production environments. All changes are first deployed to staging for automated testing. Production deployments happen every Tuesday and Thursday at 2 PM UTC, unless a hotfix is required.
+
+On-Call Rotation: Engineers participate in a weekly on-call rotation. The on-call engineer is responsible for responding to production alerts within 15 minutes during business hours and 30 minutes outside business hours. On-call compensation includes a flat stipend of $200 per week plus $50 per incident handled.
+
+Tech Stack: The primary backend language is Python with FastAPI. Frontend applications use React with TypeScript. All services are containerized with Docker and deployed on AWS ECS. PostgreSQL is the primary database, with Redis used for caching and session management.
