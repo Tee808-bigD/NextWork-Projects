@@ -9,7 +9,7 @@ api_key = None
 if os.path.exists(".env"):
     with open(".env") as f:
         for line in f:
-            if line.startswith("GEMINI_API_KEY=AQ.Ab8RN6LB2QCaDNpF4ncu0RDZCa6P4tYZVBIr5kA9fhDymYAH9Q"):
+            if line.startswith("GEMINI_API_KEY=AQ.***************P4tYZVBIr5kA9fh*******"):
                 api_key = line.strip().split("=", 1)[1]
 
 if not api_key:
